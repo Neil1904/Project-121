@@ -1,0 +1,63 @@
+body{
+    font: 100;
+    background: white;
+}
+
+.gl{
+    height: 80px;
+    width: 80px;
+}
+
+.header_div img{
+    width: 200px;
+}
+
+hr{
+    color: black;
+}
+
+.img-responsive{
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.bob3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.style_span{
+    color: red;
+}
+
+.style{
+    color: white;
+}
+
+.result{
+    box-shadow: 5px 5px 18px grey;
+	letter-spacing: 2px;
+	background: #F2BAC9;
+	border-radius: 20px;
+	margin-top:30px;
+	padding: 20px;
+	border:2px solid grey;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+ }
